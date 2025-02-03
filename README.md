@@ -1,5 +1,1 @@
-# Login and Signup template
-
-Proper Login and Signup template. 
-CSS done with MUI.
-Responsive.
+# Handling all form inputs using single useState
